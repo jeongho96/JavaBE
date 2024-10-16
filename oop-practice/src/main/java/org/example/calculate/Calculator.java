@@ -1,8 +1,5 @@
-package org.example;
+package org.example.calculate;
 
-import org.example.calculate.*;
-
-import java.util.ArrayList;
 import java.util.List;
 
 public class Calculator {
