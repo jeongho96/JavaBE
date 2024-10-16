@@ -1,4 +1,4 @@
-package org.example;
+package org.example.testcode;
 
 import org.passay.CharacterData;
 import org.passay.CharacterRule;

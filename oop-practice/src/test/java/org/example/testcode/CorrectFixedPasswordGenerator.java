@@ -1,4 +1,4 @@
-package org.example;
+package org.example.testcode;
 
 public class CorrectFixedPasswordGenerator implements PasswordGenerator {
     @Override
