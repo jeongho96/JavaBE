@@ -1,0 +1,5 @@
+### GET request to example server
+# 권유 URL /calculate&operand1=11&operator=*&operand2=55
+GET http://localhost:8080/calculate?operand1=50&operator=*&operand2=10
+
+###
